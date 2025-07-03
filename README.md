@@ -18,3 +18,4 @@ The provided Python script is designed to transcribe speech from an audio file u
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/d0e5916d-78de-4c27-a01d-a300f0747489)
